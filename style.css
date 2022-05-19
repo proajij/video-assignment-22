@@ -50,6 +50,10 @@ img{
 	width: 122px;
 	transition: all .4s ease;
 }
+.py-5 {
+     padding-top: 0rem!important; 
+     padding-bottom: 0rem!important; 
+}
 .my-menu .btn:hover{
     background: #6278df;
     color: white;
